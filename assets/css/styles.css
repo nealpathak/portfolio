@@ -15,6 +15,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+
 h1,
 h2,
 h3,
@@ -146,6 +149,7 @@ iframe {
   width: 36px;
   height: 36px;
   display: inline-block;
+  vertical-align: middle;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
